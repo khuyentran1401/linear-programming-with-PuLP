@@ -7,4 +7,4 @@ An objective function defines the quantity to be optimized with the goal to find
 Pulp is an LP modeler writtern in Python, that is used to solve linear problems
 
 # Problems 
-I use PuLP to solve different LP problems with high real-world applications. The descriptions about the problem can be found in each notebook
+PuLP is used to solve different LP problems with high real-world applications. The descriptions about the problem can be found in each notebook
